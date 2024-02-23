@@ -9,14 +9,14 @@ const Footer = () => {
                         {/* <img className='w-[100px]' src={logo} alt="" /> */}
 
                     </aside>
-                    <h2 className="text-2xl font-bold text-white"> UniHostelHub</h2>
+                    {/* <h2 className="text-2xl font-bold text-white"> UniHostelHub</h2> */}
                 </div>
                
 
             </footer>
             <footer className="footer px-10 pt-8 pb-5   bg-[#121f4a] text-white">
                 <nav>
-                    <header className="footer-title text-[#27ecdf]">Services</header>
+                    <header className="footer-title text-[#35d0de]">Services</header>
                     <a className="link link-hover">Affordability</a>
                     <a className="link link-hover">Convenience</a>
                     <a className="link link-hover">Community Atmosphere</a>
@@ -24,7 +24,7 @@ const Footer = () => {
                 </nav>
                 <nav>
                     <header className="footer-title text-[#27ecdf]">ADDRESS</header>
-                    <p>UniHostel Hub,vip tower,<br />kajirdhori,road:24,chittagong,<br />Bangladesh</p>
+                    <p>Creativaim,vip tower,<br />kajirdhori,road:24,chittagong,<br />Bangladesh</p>
 
 
                 </nav>
